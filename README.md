@@ -15,4 +15,4 @@ When referring to the payment system, **Viacoin** is written with the `V` capita
 - × *Via coin*
 - × *viaCoin*
 ## Viacoin black
- Hex '000000'
+ Hex `000000`
