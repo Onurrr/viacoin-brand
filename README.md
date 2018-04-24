@@ -1,2 +1,2 @@
-# viacoin-brand
-The Viacoin logo, icon, and color.
+# Viacoin Brand
+Viacoin is an open source crypto-currency created in 2014, derived from the Bitcoin protocol that supports embedded consensus with an extended OP_RETURN of 120 byte.
